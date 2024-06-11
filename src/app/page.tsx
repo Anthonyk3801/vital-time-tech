@@ -1,8 +1,6 @@
 import React, { startTransition, useEffect } from 'react';
 import { DndContext } from '../../node_modules/@dnd-kit/core/dist/index';
 import './globals.css'
-import './script.js'
-
 
 export default function Page() {
   
